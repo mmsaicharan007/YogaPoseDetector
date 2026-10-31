@@ -630,20 +630,4 @@ This file acts like the server, where processing occurs and feedback for the pos
 - The pose detection logic relies on the `PoseModule` and `pose_equal_check` which aren provided in the `backend` folder and contain the actual implementation of the pose detection algorithms.
 - The application combines computer vision and audio feedback to create an interactive experience for users practicing yoga.
 
-# Contribution
-
-## Created by
-### Team TomaToeSS - ZenLegacy 2024
-- Shashwat Chaturvedi
-- Shiven Phogat
-- Tadikonda Venkata Sai Chaitanya
-- Tahir Mohammed Khadarabad
-
-## Refined by
-### Team TomAToeS_V2 - Software Engineering 2024
-- Tahir Mohammed Khadarabad
-- Mohan Sai Charan Macharla
-- Tarun Kondapalli Srivatsa
-- Amruth Gadepalli
-
 Feel free to open issues or pull requests to contribute to the project. Suggestions for new features, bug fixes, or improvements are welcome!
